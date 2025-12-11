@@ -21,18 +21,18 @@ numbers = [1,2,3,4,5,6,7,8,9,10]
 # print(newlist2)
 
 
-# 12/10/2025
-animals = ["dog", "cat", "parrot", "rabbit", "fish", "lion","dinosaur"]
-# new_list = [i for i in animals if i.startswith("d")]
-# print(new_list)
-# for i in animals:
-#     if i.startswith("d"):
-#         print(i)
+# # 12/10/2025
+# animals = ["dog", "cat", "parrot", "rabbit", "fish", "lion","dinosaur"]
+# # new_list = [i for i in animals if i.startswith("d")]
+# # print(new_list)
+# # for i in animals:
+# #     if i.startswith("d"):
+# #         print(i)
 
 
-#len(i) is pre defined function used to find no. of alphabets in string 
-# for i in animals:
-#     length = len(i)
-#     print(length)
-lenght_list = [len(i) for i in animals]
-print(lenght_list)
+# #len(i) is pre defined function used to find no. of alphabets in string 
+# # for i in animals:
+# #     length = len(i)
+# #     print(length)
+# lenght_list = [len(i) for i in animals]
+# print(lenght_list)
