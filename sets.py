@@ -44,4 +44,4 @@ name = {"ram","shyam","hari"}
 # print(result)
 # # result is true or false
 
-
+#pop deletes random data
